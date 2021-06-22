@@ -1,0 +1,78 @@
+Customer 120037968
+Mr. PRASAD BMYVS.
+
+‘AQNPP6846Q
+
+NO 305 CROWN LAKE VIEW APARTMENT
+
+HORAMAVU,
+BANGALORE - 560043
+KARNATAKA,
+
+Mobile No, -9845092181
+
+Se
+
+Invoice No.
+Date/Time
+Delivery Dealer
+Order No.
+Order Date
+Dealer GSTIN
+
+ 
+
+036200000265
+12/06/2020 13:49
+BLO3B
+‘oRD200000344
+10/06/2020
+29AACCMEST4A1ZH
+
+Customer GSTINUIN NA
+
+Hire Purchase/l eased To/Hypothecated To/Lessor: TOYOTA FINANCIAL SERVICES INDIA LTD, BANGALORE
+
+ 
+
+‘AMOUNT(RS.)
+
+ 
+
+ 
+
+ 
+
+PARTICULARS
+
+_ _ Debit Credit
+Price of one FORTUNER 21,68,666.67
+
+PACKAGE: 2D 2.8L 6AT
+
+HSN Number: 8703
+VINNo,  : MBJAA3GSx0054655170320
+Engine No. :1GD A404720
+KeyNo.  :84133
+
+ExtColor : SUPER WHITE
+IntColor  :DARK BROWN
+Discount 8,666.67
+
+Unit Price after discount : 2160000.00
+
+Taxes:
+
+1 CGST @14.00% 3,02,400.00
+
+2. UTGSTISGST @14.00% 3,02,400.00
+
+3. Compensation Cess @22.00% 4,75,200.00
+TOTAL(DebitvCredi)(Rs.) 32,48,666.67__8.606.67
+
+ 
+
+Invoice Amount: Rs.32,40,000.00
+
+ 
+
